@@ -17,7 +17,7 @@ https://github.com/onplus/you2php-heroku/tree/web
 ![pHhWRg.png](https://s1.ax1x.com/2018/01/25/pHhWRg.png)
 ![pHhRJS.png](https://s1.ax1x.com/2018/01/25/pHhRJS.png)
 
-> 3.执行命令创建您的heroku应用：
+> 3.执行命令创建您的heroku应用（或者直接在heroku应用管理页面部署，更简单）：
 
 ps：记住把下面命令中的第一条中的you2php改成您的Github用户名，(如：`git clone https://github.com/You-username/you2php-heroku.git` )因为您需要提交您的仓库代码。第三条中{You APP Name}改成您的heroku应用域名前缀名（不需要加花括号）。
 
